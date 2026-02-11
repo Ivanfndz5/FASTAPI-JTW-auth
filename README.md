@@ -20,9 +20,6 @@ Proyecto demo de FastAPI con autenticación JWT y control de roles.
 - Passlib (hash de contraseñas)  
 - JWT (PyJWT)
 
-## Instalación
 
-1. Clonar el repo:  
-```bash
-git clone <url-del-repo>
-cd <nombre-del-proyecto>
+
+
